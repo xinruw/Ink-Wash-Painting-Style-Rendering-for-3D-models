@@ -3,7 +3,7 @@ CS535 Final Project
  -- Chinese Ink-Wash Painting Style Rendering
 =================================
 Name:  Xinru Wang
-Email: xinruw@purdue.edu
+Email: xinruw AT purdue.edu
 
 # Overview
 A GPU-based Chinese ink-wash painting style rendering program
